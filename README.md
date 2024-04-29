@@ -1,4 +1,4 @@
-# zt-pack
+# click LATEST to download! -->
 a blend of resource packs by various artists, compiled and modified by zt
 ![hub_showcase](https://github.com/zt-uploads/zt-pack/assets/168436824/c1893a84-e29c-4820-8741-c38112f7b39d)
 ![nether_showcase](https://github.com/zt-uploads/zt-pack/assets/168436824/218c95ca-ce4f-4f9d-a1c3-3b639663c440)
