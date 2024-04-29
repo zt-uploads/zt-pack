@@ -1,5 +1,6 @@
-# click LATEST to download! -->
+# click RELEASES to pick a download option! -->
 ### a blend of resource packs by various artists, compiled and modified by zt
+### V1 is made with Furfsky+, V2 is made with Hypixel+
 ![hub_showcase](https://github.com/zt-uploads/zt-pack/assets/168436824/c1893a84-e29c-4820-8741-c38112f7b39d)
 ![nether_showcase](https://github.com/zt-uploads/zt-pack/assets/168436824/218c95ca-ce4f-4f9d-a1c3-3b639663c440)
 ![mines_showcase](https://github.com/zt-uploads/zt-pack/assets/168436824/e3115bba-70ca-4885-a6eb-3331ebc5facd)
